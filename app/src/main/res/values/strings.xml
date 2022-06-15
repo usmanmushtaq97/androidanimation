@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="together_animation">Together</string>
+    <string name="rotate_animation">Rotate</string>
+    <string name="bounce_animation">Bounce</string>
+    <string name="sequential_animation">Sequential</string>
+</resources>
